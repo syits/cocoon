@@ -1,4 +1,4 @@
 cocoon
 ======
 
-Lightweight UI library for Actionscript
+Lightweight UI library for Starling Framework
